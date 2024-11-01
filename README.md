@@ -1,3 +1,7 @@
+Data Scientist & Business Analyst | Skilled in Python, SQL, Power BI | M.S. in Business Analytics | 
+Passionate about data-driven storytelling and leveraging AI for impactful solutions. 
+Always learning and exploring new tech
+
 # My Data Analytics Portfolio
 Welcome to my portfolio! Here are some of my best data analytics projects.
 
